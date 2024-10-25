@@ -2,7 +2,8 @@
     <string name="app_name">GymVenomApp</string>
     <string name="hello_worlddd">Hello Worlddd!</string>
     <string name="hello_wordddlddd">aa</string>
-    <string name="hello_worsd">aaa</string>
-    <string name="gatoooo">gatooo</string>
-    <string name="holaaaaa">holaaa</string>
+    <string name="holaaaaa">holaaaaa</string>
+    <string name="string_perro">string/perro</string>
+    <string name="string_conejoooo">string/conejoooo</string>
+    <string name="string_oso" />
 </resources>
