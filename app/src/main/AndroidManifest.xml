@@ -18,9 +18,7 @@
         <activity
             android:name=".pantalla_3"
             android:exported="false" />
-        <activity
-            android:name=".pantalla3"
-            android:exported="false" />
+
         <activity
             android:name=".pantalla1"
             android:exported="false" />

@@ -138,7 +138,7 @@
         android:layout_marginStart="28dp"
         android:layout_marginTop="16dp"
         android:backgroundTint="#00FFFFFF"
-        android:tint="@color/white"
+        app:tint="@color/white"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="?attr/homeAsUpIndicator" />
