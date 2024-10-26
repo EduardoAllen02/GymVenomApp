@@ -5,5 +5,9 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+    <style name="SplashTheme" parent="Base.Theme.GymVenomApp">
+       <item name="android:windowBackground">@drawable/splashscreencolor</item>
+    </style>
+
     <style name="Theme.GymVenomApp" parent="Base.Theme.GymVenomApp" />
 </resources>
